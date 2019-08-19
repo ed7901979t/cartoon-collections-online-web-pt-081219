@@ -1,4 +1,5 @@
-def roll_call_dwarves(name)
+def roll_call_dwarves(array)
+  
   # Your code here
   dwarves = %w[name]
   dwarves.each_with_index { |name| index}
