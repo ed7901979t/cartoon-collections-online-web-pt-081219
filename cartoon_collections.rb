@@ -6,6 +6,7 @@ end
 
 def summon_captain_planet(array)
   # Your code here
+  long_planeteer_calls = []
   long_planeteer_calls
 end
 
